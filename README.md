@@ -1,4 +1,4 @@
 # Matrix
-Matrix class with arithmetic operations and I/O
+Matrix class for any arithmetic type, arithmetic operations, input/output, matrix transpose  
 
-T
+Technologies:	C\C++, STL, templates
